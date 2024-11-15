@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1BH23CS024
 - 🧑‍🎓 I'm a Sophmore pursuing Bachelor's degree in Engineering, majoring in Computer Science
-- 🌱 I’m currently learning C, C++, Java & Python.
+- 🌱 I’m currently learning C, C++, Java & Python
 - 📚 Gists: https://gist.github.com/1BH23CS024
 
 <!---
