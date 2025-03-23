@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @1BH23CS024
 - 🎓 I'm a Sophmore pursuing Bachelor's degree in Engineering, majoring in Computer Science
-- 🌱 I’m currently learning ASM, C, JavaScript, Python, SQL and TypeScript
+- 🌱 I’m currently learning ASM, C, JavaScript, LaTeX, Python, SQL and TypeScript
 - 📚 Gists: https://gist.github.com/1BH23CS024
