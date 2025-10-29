@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Chauhan
 - 🎓 I'm a Junior pursuing Bachelor's degree in Engineering, majoring in Computer Science
 - 🌱 I’m currently learning computer networking and web development
-- 🧑‍💻 I'm using CSS, HTML, Java, JavaScript, PHP, SQL, and TCL 
+- 🧑‍💻 I'm currently using CSS, HTML, Java, JavaScript, PHP, SQL, and TCL 
 - 📚 Gists: https://gist.github.com/1BH23CS024
