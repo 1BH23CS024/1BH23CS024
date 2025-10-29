@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1BH23CS024
-- 🎓 I'm a Sophmore pursuing Bachelor's degree in Engineering, majoring in Computer Science
-- 🌱 I’m currently learning ASM, C, LaTeX, MongoDB and SQL
+- 👋 Hi, I’m Gaurav Chauhan
+- 🎓 I'm a Junior (3rd Year, 5th Semester) pursuing Bachelor's degree in Engineering, majoring in Computer Science
+- 🌱 I’m currently learning Java, PHP, SQL, TCL and core web development.
 - 📚 Gists: https://gist.github.com/1BH23CS024
