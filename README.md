@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gaurav Chauhan
+- 👋 Hi, I’m <redacted>
 - 🎓 I'm a Junior pursuing Bachelor's degree in Engineering, majoring in Computer Science
-- 🌱 I’m currently learning computer networking and web development
-- 🧑‍💻 I'm currently using CSS, HTML, Java, JavaScript, PHP, SQL, and TCL 
+- 🌱 I’m currently learning Machine Learning and Computer Vision, and making my graduation project.
+- 🧑‍💻 I'm currently using Python and LaTeX.
 - 📚 Gists: https://gist.github.com/1BH23CS024
